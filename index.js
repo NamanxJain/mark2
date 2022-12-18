@@ -22,6 +22,18 @@ var questions = [
         question:"What animal can Harry speak to  ",
         answer:"Snake"
     },
+    {
+        question:"Who was the first goblin Harry ever met",
+        answer:"Griphook"
+    },
+    {
+        question:"Ron Weasley has a fear of which insect",
+        answer:"Spider"
+    },
+    {
+        question:"Who destroyed Ravenclaw’s diadem",
+        answer:"Vincent Crabbe"
+    },
 ]
 
 function play(question,answer)
